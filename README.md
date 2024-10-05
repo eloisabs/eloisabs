@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eloisabs
 - 👀 I’m interested in several things, one of them is technology.
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning HTML and CSS, then I intend to study JavaScript
 - 💞️ I’m looking to collaborate on for projects that help me grow in the world of technology.
 - 📫 How to reach me e-mail.
 - 😄 Pronouns: she/her.
