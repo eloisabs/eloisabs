@@ -8,5 +8,28 @@
 
 <!---
 eloisabs/eloisabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes.<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Olá! Me chamo Eloisa mas pode me chamar de elo. Tenho 16 anos estou quase finalizando o ensino médio.
+  Estou sempre em busca de conhecimento, aprendizado e em descobrir coisas novas. A tecnologia é nova para mim mas estou procurando adquirir mais conhecimento através de cursos online e projetos.
+  
+	
+  No momemnto estou fazendo cursos de programação, voltados a área de front-end.
+</p>
+
+<p align="left">
+  💼 O que mais ultilizo.**HTML e CSS**
+</p>
+
+<p align="left">
+  💌 Caso queira conversar pode me chamar!Aceito dicas e recomendações de estudo (principalmente sobre Front-end!) ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=elobrito16@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/eloisabrito" alt="LinkedIn"/></a>
+ 
 --->
