@@ -6,10 +6,6 @@
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I love Korean culture, I like writing and creating different universes through writing and I also really like design.
 
-<!---
-eloisabs/eloisabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p align="left"> 
   Olá! Me chamo Eloisa mas pode me chamar de elo. Tenho 16 anos estou quase finalizando o ensino médio.
   Estou sempre em busca de conhecimento, aprendizado e em descobrir coisas novas. A tecnologia é nova para mim mas estou procurando adquirir mais conhecimento através de cursos online e projetos.
